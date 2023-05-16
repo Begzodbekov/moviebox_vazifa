@@ -1,0 +1,117 @@
+.header{
+    .nav{
+        .header__list{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            list-style-type: none;
+            position: absolute;
+            z-index: 1;
+            margin-top: 48px;
+            width: 1475px;
+        }
+        .header__item{
+            margin-left: -306px;
+        }
+        .header__item1{
+            input{
+                width: 600px;
+                height: 40px;
+                border: 1px solid white;
+                border-radius: 10px;
+                background-color: inherit;
+                color: white;
+                padding-left:12px ;
+            }
+            ::placeholder{
+                color: white;
+                opacity: 1;
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 34px;
+            }
+        }
+        .header__item2{
+            display: flex;
+            width: 170px;
+            justify-content: space-between;
+            h2{
+                font-family: 'DM Sans';
+                color: white;
+            }
+        }
+    }
+    .carousel-item{
+        .d-block{
+            height: 969px;
+            object-fit: cover;
+        }
+    }
+}
+
+.Prabellum_box{
+    position: absolute;
+    margin-top: -691px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 1727px;
+    margin-left: -269px;
+
+}
+
+.parabellum_inner{
+    h1{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 61px;
+        line-height: 72px;
+        width: 406px;
+    }
+    p{
+        width: 443px;
+            letter-spacing: 2px;
+            font-weight: 500;
+            font-size: 17px;
+            line-height: 18px;
+    }
+    button{
+        width: 225px;
+        height: 40px;
+        background-color: #BE123C;;
+        color: #fff;
+        border-radius: 10px;
+        font-size: 18px;
+        letter-spacing: 1px;
+        border: none;
+        text-transform: uppercase;
+        img{
+            width: 25px;
+        }
+    }
+}
+.Parabellum_item{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    width: 216px;
+    margin-left: -24px;
+}
+
+.parabellum_obj{
+    list-style-type: none;
+    font-size: 20px;
+    margin-top: 112px;
+    line-height: 37px;
+    a{
+        text-decoration: none;
+        color: #9CA3AF;;
+    }
+    .parabellum-obj_third{
+        font-size: 35px;
+        margin-left: -16px;
+        color: white;
+    }
+}

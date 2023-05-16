@@ -1,0 +1,85 @@
+.featured_arrowleft{
+    margin-left: -326px;
+    margin-top: 174px;
+    position: absolute;
+}
+.featured_arrowright{
+    margin-left: 1423px;
+    margin-top: 174px;
+    position: absolute;
+}
+
+
+.featured_inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1695px;
+    margin-left: -314px;
+    list-style-type: none;
+    margin-top: 75px;
+    h2{
+        font-weight: 700;
+    }
+    .featured_inner-item{
+        margin-left: 1300px;
+        a{
+            color: #BE123C;
+            text-decoration: none;
+        }
+    }
+}
+.featured_various{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1784px;
+    margin-left: -343px;
+    margin-top: 40px;
+    .features_keanu{
+                p{
+            font-size: 20px;
+            font-weight: 600;
+        }
+        img{
+            width: 323px;
+            height: 460px;
+        }
+    }
+
+
+    .featured_ryan{
+        p{
+            font-size: 20px;
+            font-weight: 600;
+        }
+        img{
+            width: 323px;
+            height: 460px;
+        }
+    }
+
+
+    .featured_timothee{
+        p{
+            font-size: 20px;
+            font-weight: 600;
+        }
+        img{
+            width: 323px;
+            height: 460px;
+        }
+    }
+    .featured_chore{
+        p{
+            font-size: 20px;
+            font-weight: 600;
+        }
+        img{
+            width: 323px;
+            height: 460px;
+        }
+    }
+
+
+}

@@ -1,0 +1,26 @@
+.contact_box{
+    p{
+        margin-top: 32px;
+        margin-left: 380px;
+    }
+}
+
+.contact_inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 150px;
+    list-style-type: none;
+    width: 250px;
+    margin-left: 400px;
+}
+.contact_info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 35px;
+    list-style-type: none;
+    width: 453px;
+    margin-left: 295px;
+    font-weight: 600;
+}

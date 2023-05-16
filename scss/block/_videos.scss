@@ -1,0 +1,78 @@
+.videos_arrowleft{
+    margin-left: -326px;
+    margin-top: 174px;
+    position: absolute;
+}
+.videos_arrowright{
+    margin-left: 1423px;
+    margin-top: 174px;
+    position: absolute;
+}
+
+
+.videos_inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1695px;
+    margin-left: -314px;
+    list-style-type: none;
+    margin-top: 75px;
+    h2{
+        font-weight: 700;
+    }
+    .videos_inner-item{
+        margin-left: 1300px;
+        a{
+            color: #BE123C;
+            text-decoration: none;
+        }
+    }
+}
+.videos_various{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1752px;
+    margin-left: -326px;
+    margin-top: 40px;
+    .videos_lamb{
+        p{
+            font-size: 20px;
+            font-weight: 600;
+            letter-spacing: 1px;
+        }
+        img{
+            width: 591px;
+            height: 320px;
+        }
+    }
+
+
+    .videos_suicide{
+        p{
+            font-size: 20px;
+            font-weight: 600;
+            letter-spacing: 1px;
+        }
+        img{
+            width: 591px;
+            height: 320px;        
+        }
+    }
+
+
+    .videos_horror{
+        p{
+            font-size: 20px;
+            font-weight: 600;
+            letter-spacing: 1px;
+        }
+        img{
+            width: 299px;
+            height: 320px;        
+        }
+    }
+
+
+}

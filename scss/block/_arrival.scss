@@ -1,0 +1,248 @@
+.arrival_arrowleft{
+    margin-left: -326px;
+    margin-top: 231px;
+    position: absolute;
+}
+.arrival_arrowright{
+    margin-left: 1423px;
+    margin-top: 231px;
+    position: absolute;
+}
+
+
+.arrival_inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1695px;
+    margin-left: -314px;
+    list-style-type: none;
+    margin-top: 75px;
+    h2{
+        font-weight: 700;
+    }
+    .arrival_inner-item{
+        margin-left: 1378px;
+        a{
+            color: #BE123C;
+            text-decoration: none;
+        }
+    }
+}
+.arrival_vairous{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1883px;
+    margin-left: -384px;
+    .arrival_dune{
+        .dune_ul{
+            position: absolute;
+            margin-top: 23px;
+            display: flex;
+            color: white;
+            justify-content: space-between;
+            width: 252px;
+            list-style-type: none;
+            margin-left: -18px;
+            .dune_li{
+                width: 80px;
+                height: 20px;
+                text-align: center;
+                border-radius: 10px;
+                color:  #111827;                ;
+                background-color: rgba(243, 244, 246, 0.5);
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 13px;
+            }
+            .dune_liimg{
+                margin-top: -3px;
+            }
+        }
+        .dune_number{
+            img{
+                color: black;
+            }
+        }
+        .dune_item{
+            
+            p{
+                margin-top: 12px;
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 13px;
+                color: #9CA3AF;
+            }
+            h5{
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 20px;
+                line-height: 27px;
+            }
+            .dune_obj{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                list-style-type: none;
+                margin-left: -32px;
+                :nth-child(2){
+                    font-size: 12px;
+                    margin-left: -2px;
+                }
+                :nth-child(3){
+                    margin-left: 82px;
+                }
+                :nth-child(4){
+                    font-size: 14px;
+                }
+            }
+        }
+    }
+
+
+
+    .arrival_notime{
+        margin-top: 6px;
+        .notime_ul{
+            list-style-type: none;
+            margin-top: 19px;
+            margin-left: 173px;
+            position: absolute;
+        
+        }
+        .notime_item{
+            p{
+                margin-top: 12px;
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 13px;
+                color: #9CA3AF;
+            }
+            h5{
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 20px;
+                line-height: 27px;
+            }
+            .notime_obj{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                list-style-type: none;
+                margin-left: -32px;
+                :nth-child(2){
+                    font-size: 12px;
+                    margin-left: -2px;
+                }
+                :nth-child(3){
+                    margin-left: 82px;
+                    margin-top: -4px;
+                }
+                :nth-child(4){
+                    font-size: 14px;
+                }
+            }
+        }
+    }
+
+
+    .arrival_shangchi{
+        margin-top: 33px;
+        .shangchi_ul{
+            list-style-type: none;
+            position: absolute;
+            margin-top: 17px;
+            margin-left: 170px;
+        }
+        .shangchi_item{
+            p{
+                margin-top: 12px;
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 13px;
+                color: #9CA3AF;
+            }
+            h5{
+                width: 255px;
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 20px;
+                line-height: 27px;
+            }
+            .shangchi_obj{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                list-style-type: none;
+                margin-left: -32px;
+                :nth-child(2){
+                    font-size: 12px;
+                    margin-left: -2px;
+                }
+                :nth-child(3){
+                    margin-left: 82px;
+                    margin-top: -4px;
+                }
+                :nth-child(4){
+                    font-size: 14px;
+                }
+            }
+        }
+    }
+
+
+    .arrival_dontbreathe{
+        .dontbreathe_ul{
+            list-style-type: none;
+            position: absolute;
+            margin-top: 17px;
+            margin-left: 170px;
+        }
+        .dontbreathe_item{
+            p{
+                margin-top: 12px;
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 13px;
+                color: #9CA3AF;
+            }
+            h5{
+                width: 255px;
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 20px;
+                line-height: 27px;
+            }
+            .dontbreathe_obj{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                list-style-type: none;
+                margin-left: -32px;
+                :nth-child(2){
+                    font-size: 12px;
+                    margin-left: -2px;
+                }
+                :nth-child(3){
+                    margin-left: 82px;
+                    margin-top: -4px;
+                }
+                :nth-child(4){
+                    font-size: 14px;
+                }
+            }
+        }
+    }
+
+
+}
